@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+Downloadable CV with list of publications: [CV](/files/CV_Leopold_Hess.pdf)
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
