@@ -16,7 +16,7 @@ Download my CV: [CV](/files/CV_Leopold_Hess.pdf)
 Education and Employment
 ======
 * 2018/19 Lecturer (part-time) at Faculty of Humanities, Leiden University\
->>Lecturer (part-time) at Faculty of Philosophy, Theology and Religious Studies, Radboud University Nijmegen
+<space><space><space><space><space><space>Lecturer (part-time) at Faculty of Philosophy, Theology and Religious Studies, Radboud University Nijmegen
 * 2014-   PhD candidate, Faculty of Philosophy, Theology and Religious Studies, Radboud University (exp. submission December 2018)\
           Dissertation: Expression and perspective in pejorative lexemes and narratives
 * 2016    PhD, Faculty of Philosophy, Jagiellonian University, Kraków, Poland\
