@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV: [CV](/files/CV_Leopold_Hess.pdf)
+Download resume with list of publications: [CV](/files/CV_Leopold_Hess.pdf)
 
 (Ignore the following.)
 
@@ -22,17 +22,11 @@ Education and Employment
 * 2011      MA (magister) in Classics, University ofWarsaw; with excellent grade
 * 2009      MA (magister) in Philosophy, Jagiellonian University; with honors
 
-Work experience
+Research Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2014- Unraveling the Language of Perspective, (ERC Starting Grant 338421-Perspective; PI: Corien Bary): Team member
+* 2014  Normativity and Second Nature (NCN research grant ETIUDA 2013/08/T/HS1/00092): Principal investigator
+* 2010/11 Transformationen des Geistes. Philosophische Psychologie 1500-1750 (Leibniz-Preis; PI: Dominik Perler): Visiting participant
   
 Skills
 ======
