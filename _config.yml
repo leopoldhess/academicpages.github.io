@@ -113,7 +113,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  academia.edu     : "https://radboud.academia.edu/LeopoldHess"
+  links            :
+   - label: "academia.edu"
+     icon: "amilia"
+     url: "https://radboud.academia.edu/LeopoldHess"
 
 
 # Reading Files
