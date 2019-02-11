@@ -40,6 +40,9 @@
        {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+      {% if author.academia %}
+        <li><a href="{{ author.academia }}"><i class="fab fa-amilia" aria-hidden="true"></i> Academia.Edu</a></li>
+      {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
       {% endif %}
