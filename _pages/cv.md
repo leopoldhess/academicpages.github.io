@@ -24,8 +24,8 @@ Education and Employment
 
 Research Projects
 ======
-* 2014-    Unraveling the Language of Perspective, (ERC Starting Grant 338421-Perspective; PI: Corien Bary): Team member
-* 2014     Normativity and Second Nature (NCN research grant ETIUDA 2013/08/T/HS1/00092): Principal investigator
+* 2014-     Unraveling the Language of Perspective, (ERC Starting Grant 338421-Perspective; PI: Corien Bary): Team member
+* 2014      Normativity and Second Nature (NCN research grant ETIUDA 2013/08/T/HS1/00092): Principal investigator
 * 2010/11 Transformationen des Geistes. Philosophische Psychologie 1500-1750 (Leibniz-Preis; PI: Dominik Perler): Visiting participant
   
 Skills
