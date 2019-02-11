@@ -88,6 +88,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=sDiobQQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  academia         : "https://radboud.academia.edu/LeopoldHess"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,11 +114,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  links            :
-   - label: "academia.edu"
-     icon: "amilia"
-     url: "https://radboud.academia.edu/LeopoldHess"
-
+  
 
 # Reading Files
 include:
