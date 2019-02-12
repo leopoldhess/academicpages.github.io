@@ -9,6 +9,7 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
   </head>
 
   <body>
