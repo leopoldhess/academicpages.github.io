@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Downloadable resume with list of publications: [CV](/files/CV_Leopold_Hess.pdf)
+My curriculum vitae including a list of publications: [CV](/files/CV_Leopold_Hess.pdf)
 
 (Ignore the following.)
 
