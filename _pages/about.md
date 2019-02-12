@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Leopold Hess - personal website. Philosopher and linguist specializing in social philosophy of language, slurs, expressives, and perspective in language."
 author_profile: true
 redirect_from: 
   - /about/
