@@ -3,7 +3,7 @@ title: "Perspectival Expressives"
 collection: publications
 permalink: /publication/2018-05-01-Perspectival-Expressives
 excerpt: 'Highlights'
-date: 2015-10-01
+date: 2018-05-01
 venue: 'Journal of Pragmatics'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378216616305719'
 citation: 'Hess, Leopold. (2018). &quot;Perspectival Expressives&quot; <i>Journal of Pragmatics</i>. 129:13-33.'
