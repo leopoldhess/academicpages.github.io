@@ -34,11 +34,13 @@ Research Projects
 Publications
 ======
   [Publications section](https://leopoldhess.github.io/publications/)
+  
   <!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   --->
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
