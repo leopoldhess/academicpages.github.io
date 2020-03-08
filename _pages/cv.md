@@ -11,11 +11,11 @@ redirect_from:
 
 My curriculum vitae including a list of publications: [CV](/files/CV_Leopold_Hess.pdf)
 
-(Ignore the following.)
+(Information below to be updated soon.)
 
 Education and Employment
 ======
-* 2019-     Postdoctoral Researcher, Institute of Philosophy, University of Warsaw
+* 2019-     Postdoctoral Researcher, Institute of Philosophy, University of Warsaw
 * 2018/19 Lecturer (part-time) at Faculty of Humanities, Leiden University.
 * 2018/19 Lecturer (part-time) at Faculty of Philosophy, Theology and Religious Studies, Radboud University Nijmegen
 * 2014-     PhD candidate, Faculty of Philosophy, Theology and Religious Studies, Radboud University, Dissertation: *Perspective and Word Choice. A Study of Expressives, Slurs, and Narrative*
@@ -25,7 +25,7 @@ Education and Employment
 
 Research Projects
 ======
-* 2019-     Ideological Speech. Semantics and Pragmatics of Contested and Prejudiced Expressions (NCN research grant SONATINA
+* 2019-     Ideological Speech. Semantics and Pragmatics of Contested and Prejudiced Expressions (NCN research grant SONATINA
 2019/32/C/HS1/00475): Principal Investigator
 * 2014-19   Unraveling the Language of Perspective (ERC Starting Grant 338421-Perspective; PI: Corien Bary): Team member
 * 2014      Normativity and Second Nature (NCN research grant ETIUDA 2013/08/T/HS1/00092): Principal investigator
@@ -33,11 +33,12 @@ Research Projects
   
 Publications
 ======
-  <ul>https://leopoldhess.github.io/publications/</ul>
+  [Publications section](https://leopoldhess.github.io/publications/)
+  <!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+  --->
 Talks
 ======
   <ul>{% for post in site.talks %}
