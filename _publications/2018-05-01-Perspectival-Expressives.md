@@ -2,7 +2,7 @@
 title: "Perspectival Expressives"
 collection: publications
 permalink: /publication/2018-05-01-Perspectival-Expressives
-excerpt: 'Highlights'
+excerpt: 'Proposes a pragmatic mechanism of perspective-dependence of expressives: a discourse model with attribution of commitments _de lingua_. This paper received the [Jacob L. Mey and Hartmut Haberland Early Career Award](https://www.journals.elsevier.com/journal-of-pragmatics/awards/jacob-l-mey-and-hartmut-haberland-early-career-award)'
 date: 2018-05-01
 venue: 'Journal of Pragmatics'
 paperurl: 
