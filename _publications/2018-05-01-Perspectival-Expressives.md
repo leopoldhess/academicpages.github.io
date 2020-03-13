@@ -6,7 +6,7 @@ excerpt: 'Proposes a pragmatic mechanism of perspective-dependence of expressive
 date: 2018-05-01
 venue: 'Journal of Pragmatics'
 paperurl: 
-citation: 'Hess, Leopold. (2018). &quot;Perspectival Expressives&quot; <i>Journal of Pragmatics</i>. 129:13-33.'
+citation: 'Hess, Leopold. (2018). &quot;Perspectival Expressives&quot; <i>Journal of Pragmatics</i>. 129:13-33. doi.org/10.1016/j.pragma.2018.02.007'
 ---
 [Download from journal website (Open Access)](https://www.sciencedirect.com/science/article/pii/S0378216616305719)
 
