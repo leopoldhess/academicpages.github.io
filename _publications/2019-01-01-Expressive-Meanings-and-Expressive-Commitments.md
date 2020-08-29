@@ -8,6 +8,7 @@ venue: '<i>Philosophical Insights into Pragmatics</i>. Berlin, Boston: De Gruyte
 paperurl: 
 citation: 'Hess, Leopold. (2019). "Expressive Meanings and Expressive Commitments. A Case of Meaning as Use". In <i>Philosophical Insights into Pragmatics</i>. Berlin, Boston: De Gruyter. doi.org/10.1515/9783110628937-010'
 ---
+
 [Published version on publisher website](https://www.degruyter.com/view/book/9783110628937/10.1515/9783110628937-010.xml?rskey=4UZkHv&result=4)
 
 [Download a pre-print](https://www.academia.edu/35179753/Expressive_meanings_and_expressive_commitments_a_case_of_meaning_as_use)
