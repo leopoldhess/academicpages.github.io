@@ -1,7 +1,7 @@
 ---
 title: "Expressive Meanings and Expressive Commitments. A Case of Meaning as Use"
 collection: publications
-permalink: /publication/2019-Expressive-Meanings-and-Expressive-Commitments
+permalink: /publication/2019-01-01-Expressive-Meanings-and-Expressive-Commitments
 excerpt: 'A purely pragmatic account of expressive content, contstrued as emerging from the speaker's choice to use (weakly or stronly) taboo language.'
 date: 2019
 venue: '<i>Philosophical Insights into Pragmatics</i>. Berlin, Boston: De Gruyter'
