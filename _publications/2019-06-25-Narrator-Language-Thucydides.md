@@ -1,7 +1,7 @@
 ---
 title: "Narrator language and character language in Thucydides: A quantitative study of narrative perspective"
 collection: publications
-permalink: /publication/2019-06-25-Narrator-Language-Thucydides.md
+permalink: /publication/2019-06-25-Narrator-Language-Thucydides
 excerpt: 'Co-authored with Corien Bary. A study of the relation between narrative perspective and the distribution of perspectival vocabulary across narrator text and character speeches in Thucydides.'
 date: 2019-06-25
 venue: 'Digital Scholarship in the Humanities'
