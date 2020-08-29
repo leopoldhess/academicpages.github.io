@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2019-01-01-Expressive-Meanings
 excerpt: 'A purely pragmatic account of expressive content, construed as emerging from the speaker's choice to use (weakly or stronly) taboo language'
 date: 2019-01-01
-venue: '<i>Philosophical Insights into Pragmatics</i>. Berlin, Boston: De Gruyter'
+venue: '<i>Philosophical Insights into Pragmatics</i>. Berlin, Boston De Gruyter'
 paperurl: 
-citation: 'Hess, Leopold. (2019). &quot;Expressive Meanings and Expressive Commitments. A Case of Meaning as Use&quot;. In <i>Philosophical Insights into Pragmatics</i>. Berlin, Boston: De Gruyter. doi.org/10.1515/9783110628937-010'
+citation: 'Hess, Leopold. (2019). &quot;Expressive Meanings and Expressive Commitments. A Case of Meaning as Use&quot;. In <i>Philosophical Insights into Pragmatics</i>. Berlin, Boston De Gruyter. doi.org/10.1515/9783110628937-010'
 ---
 [Published version on publisher website](https://www.degruyter.com/view/book/9783110628937/10.1515/9783110628937-010.xml?rskey=4UZkHv&result=4)
 
